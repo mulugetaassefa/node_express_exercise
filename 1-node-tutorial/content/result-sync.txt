@@ -1,0 +1,1 @@
+Here is the result of first write file  method Here is the result : the first text, the second text
